@@ -1,8 +1,9 @@
-# Foodfy
+# <h1 align="center">Foodfy</h1>
 
-<p>Aprenda a construir os melhores pratos com receitas criadas por profissionais do mundo inteiro.</p>
+<p align="center">Aprenda a construir os melhores pratos com receitas criadas por profissionais do mundo inteiro.</p>
 
-
+<br>
+<br>
 
 <img align="right" src=".github/chef.png?raw=true" height="240">
 
@@ -121,7 +122,7 @@ Para usar estes recursos, edite o arquivo `mailer.js` dentro da pasta `scr/lib` 
 
 
 <p align="center">  
-  <a href="https://github.com/Lucianobarretto/chapter02_challenge/blob/master/LICENSE.md">
+  <a href="https://github.com/Lucianobarretto/Foodfy/blob/master/LICENSE.md">
     <img alt="License" src="https://img.shields.io/badge/LICENSE-MIT-orange">
   </a>
 </p>
