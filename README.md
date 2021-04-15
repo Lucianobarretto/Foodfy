@@ -31,20 +31,6 @@ O Foodfy é uma aplicação web completa de gerenciamento de receitas, desenvolv
 
 <br>
 
-<h3 align="center">Admin</h3>
-<p align="center">
-  <img src=".github/admin.gif" alt="página admin">
-</p>
-
-<br>
-
-<h3 align="center">Email de boas-vindas</h3>
-<p align="center">
-  <img src=".github/welcome_email.png" alt="página admin">
-</p>
-
-<br>
-
 ## Funcionalidades
 
 - [X] Explore variados tipos de receitas.
@@ -130,14 +116,24 @@ Para usar estes recursos, edite o arquivo `mailer.js` dentro da pasta `scr/lib` 
 <br>
 
 ## Licença
-<a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-6558C3?style=flat-square">
-</a>
 
-<br>
+<h5 align="center">Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.</h5>
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+
+<p align="center">  
+  <a href="https://github.com/Lucianobarretto/chapter02_challenge/blob/master/LICENSE.md">
+    <img alt="License" src="https://img.shields.io/badge/LICENSE-MIT-orange">
+  </a>
+</p>
 
 ---
 
-Feito com
+<p align="center">
+  <img align="center" src="lb.logo.png" alt="Logo Luciano Barreto" width="250"/>
+</p>
+
+<p align="center">  
+  <a href="https://www.linkedin.com/in/lucianobalmeida/">
+    <img alt="Made by Luciano Barreto" src="https://img.shields.io/badge/Made%20by-Luciano%20Barreto-blue">
+  </a>  
+</p>
